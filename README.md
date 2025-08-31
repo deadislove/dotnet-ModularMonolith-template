@@ -1,7 +1,7 @@
 # ModularMonolith.Template
 
-![Visitors](https://img.shields.io/badge/visitors-92_total-brightgreen)
-![Clones](https://img.shields.io/badge/clones-16_total_13_unique-blue) <!--CLONE-BADGE-->
+![Visitors](https://img.shields.io/badge/visitors-88_total-brightgreen)
+![Clones](https://img.shields.io/badge/clones-17_total_13_unique-blue) <!--CLONE-BADGE-->
 
 A **Modular Monolith** template built with **.NET 9** and clean DDD principles. It enables dynamic module loading, strong separation of concerns, and comes with batteries-included features like JWT authentication, rate limiting, Serilog logging, and health checks.
 
